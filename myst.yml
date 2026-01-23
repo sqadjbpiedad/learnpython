@@ -1,0 +1,21 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 845d407c-f072-493e-a459-2ef70547e1c6
+  title: Learn Python
+  exclude:
+    - myvenv/**
+
+site:
+  options:
+    logo_text: Echoing Python Programming Language to SQAD via Brown Bag
+    #logo: bnhr-2024-fordarkbg-main.png
+  #  base_url: "/learnpython/"  
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
+  
+  parts:
+    primary_sidebar_footer:
+      Made for Systems Quality Assurance Division 💗
