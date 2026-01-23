@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3003/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3004/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3003</loc>
+    <loc>http://localhost:3004</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/about</loc>
+    <loc>http://localhost:3004/about</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/why-python</loc>
+    <loc>http://localhost:3004/why-python</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/tips-to-get-started</loc>
+    <loc>http://localhost:3004/tips-to-get-started</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/environment-and-package-management</loc>
+    <loc>http://localhost:3004/environment-and-package-management</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/version-control</loc>
+    <loc>http://localhost:3004/version-control</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/ide</loc>
+    <loc>http://localhost:3004/ide</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/notebooks</loc>
+    <loc>http://localhost:3004/notebooks</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/about-1</loc>
+    <loc>http://localhost:3004/about-1</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/getting-started</loc>
+    <loc>http://localhost:3004/getting-started</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/variables-data-types-scope</loc>
+    <loc>http://localhost:3004/variables-data-types-scope</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/data-structures</loc>
+    <loc>http://localhost:3004/data-structures</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/iterations-and-comprehensions</loc>
+    <loc>http://localhost:3004/iterations-and-comprehensions</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/functions-classes-and-objects</loc>
+    <loc>http://localhost:3004/functions-classes-and-objects</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lambda-map-filter</loc>
+    <loc>http://localhost:3004/lambda-map-filter</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/strings-and-ranges</loc>
+    <loc>http://localhost:3004/strings-and-ranges</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/loops-and-conditionals</loc>
+    <loc>http://localhost:3004/loops-and-conditionals</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/user-inputs-and-file-handling</loc>
+    <loc>http://localhost:3004/user-inputs-and-file-handling</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/errors-and-exceptions</loc>
+    <loc>http://localhost:3004/errors-and-exceptions</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/basic-visualizations</loc>
+    <loc>http://localhost:3004/basic-visualizations</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/exercises</loc>
+    <loc>http://localhost:3004/exercises</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/about-2</loc>
+    <loc>http://localhost:3004/about-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/arrays</loc>
+    <loc>http://localhost:3004/arrays</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/dataframes</loc>
+    <loc>http://localhost:3004/dataframes</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/exercises-1</loc>
+    <loc>http://localhost:3004/exercises-1</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/demo-01-decision-tree-water-detection</loc>
+    <loc>http://localhost:3004/demo-01-decision-tree-water-detection</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/demo-02-random-forest-land-cover-classification</loc>
+    <loc>http://localhost:3004/demo-02-random-forest-land-cover-classification</loc>
   </url>
 </urlset>
