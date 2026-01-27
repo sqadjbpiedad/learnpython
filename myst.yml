@@ -5,6 +5,7 @@ project:
   title: Learn Python
   exclude:
     - myvenv/**
+    - answers/**
 
 site:
   options:
