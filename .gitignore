@@ -14,3 +14,5 @@ myvenv/
 # MyST build outputs
 _build
 
+.ipynb_checkpoints/
+

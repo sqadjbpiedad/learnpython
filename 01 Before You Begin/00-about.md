@@ -13,3 +13,10 @@ This module introduces tools and concepts that will make your Python journey eas
 - Version Control
 - IDEs
 - Notebooks
+
+
+## Preparation
+
+
+C:\Users\{YourUserName}\AppData\Local\Programs\Python\Python3xx\
+C:\Users\{YourUserName}\AppData\Local\Programs\Python\Python3xx\bin
