@@ -10,7 +10,7 @@ project:
 site:
   options:
     logo_text: Echoing Python Programming Language to SQAD via Brown Bag
-    #logo: bnhr-2024-fordarkbg-main.png
+    #logo: logo.png
   #  base_url: "/learnpython/"  
   template: book-theme
   # options:
