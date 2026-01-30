@@ -8,7 +8,7 @@ To enhance the formulation of test scripts competency of personnel from the Syst
 
 
 ## Duration and schedule
-08:00 AM to 5:00 PM, 23-25 February (Mon to Wed) 2026 
+08:00 AM to 5:00 PM, 23-25 February (Mon to Wed) 2026  
 The sessions are divided into lectures, hands-on/break-out exercises, and Q&A sessions.  
 
 * Day 1: Introductions, foundational Python concepts, basic data manipulation with Python, including data structures, functions, and visualizations
