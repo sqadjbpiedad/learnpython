@@ -12,7 +12,7 @@ site:
     logo_text: Echoing Python Programming Language to SQAD via Brown Bag
     #logo: logo.png
     base_url: "/learnpython"
-    baseurl: "/learnpython/"
+    #baseurl: "/learnpython/"
   template: book-theme
   # options:
   #   favicon: favicon.ico
