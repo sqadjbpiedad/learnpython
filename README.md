@@ -8,13 +8,10 @@ To enhance the formulation of test scripts competency of personnel from the Syst
 
 
 ## Duration and schedule
-<<<<<<< HEAD
 08:00 AM to 5:00 PM  
 Batch 1: 23-25 February 2026  
 Batch 2: 13-15 April 2026  
-=======
-08:00 AM to 5:00 PM, 23-25 February (Mon to Wed) 2026  
->>>>>>> 1d730ca42ea966e46c31ca8cd5d36463c6636a1d
+
 The sessions are divided into lectures, hands-on/break-out exercises, and Q&A sessions.  
 
 * Day 1: Introductions, foundational Python concepts, basic data manipulation with Python, including data structures, functions, and visualizations
