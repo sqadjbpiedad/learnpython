@@ -1,1 +1,1 @@
-import{a}from"/learnpython//build/_shared/chunk-3RILWZVK.js";import"/learnpython//build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/learnpython/build/_shared/chunk-3RILWZVK.js";import"/learnpython/build/_shared/chunk-OZE3FFNP.js";export default a();
