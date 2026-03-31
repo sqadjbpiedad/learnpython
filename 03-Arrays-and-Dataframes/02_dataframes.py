@@ -1,6 +1,6 @@
 import marimo
 
-__generated_with = "0.19.0"
+__generated_with = "0.19.5"
 app = marimo.App(width="medium")
 
 
@@ -28,7 +28,7 @@ def _():
     return
 
 
-@app.cell
+@app.cell(hide_code=True)
 def _():
     import marimo as mo
 
@@ -44,7 +44,7 @@ def _():
     return (mo,)
 
 
-@app.cell
+@app.cell(hide_code=True)
 def _(mo):
     mo.md("""
     # 4.1 Introduction to DataFrames

@@ -8,7 +8,9 @@ To enhance the Python programming competency of the Systems Quality Assurance Di
 
 
 ## Duration and schedule
-08:00 AM to 5:00 PM, 23-25 February 2026  
+08:00 AM to 5:00 PM  
+Batch 1: 23-25 February 2026  
+Batch 2: 13-15 April 2026  
 The sessions are divided into lectures, hands-on/break-out exercises, and Q&A sessions.  
 
 * Day 1: Introductions, foundational Python concepts, basic data manipulation with Python (data structures, functions, and visualizations).
